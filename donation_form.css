@@ -1,0 +1,38 @@
+
+body{
+	font-family: 'Century gothic', sans-serif;
+	background: linear-gradient(to right, #1fa2ff, #12d8fa, #a6ffcb);
+}
+.header > h2 {
+	margin-top: 100px;
+	color: #4f46a5;
+	text-align: center;
+  }
+  
+  .header > h4 {
+	margin-top: 5px;
+	font-weight: normal;
+	font-size: 15px;
+	text-align: center;
+	color: rgba(0,0,0,.4);
+  }
+  .form{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+  }
+  
+  
+  .form-field {
+	height: 46px;
+	padding: 0 16px;
+	border: 2px solid #ddd;
+	border-radius: 4px;
+	font-family: 'Century gothic', sans-serif;
+	margin-top: 20px;
+	display: flex;
+	align-items: right;
+	justify-content: right;
+  }
+  
+  
